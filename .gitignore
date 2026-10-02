@@ -4,6 +4,7 @@ backend/*.log
 backend/.pii.key
 backend/.jwt.secret
 backend/retainiq.db
+backend/gcs-key.json
 frontend/node_modules/
 frontend/dist/
 frontend/*.log
